@@ -1,0 +1,3 @@
+function odd(num){
+    
+}
